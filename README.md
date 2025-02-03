@@ -38,7 +38,9 @@ Key Features:
 - Show sunrise and sunset times for the selected city.
 - Provide information about air quality, humidity, visibility, feels like temperature, and atmospheric pressure.
 
-## Getting Started
+## Installation
+Clone the repository or download the project files to your local machine.
+Open index.html in your web browser.
 
 ## Project Structure
 
